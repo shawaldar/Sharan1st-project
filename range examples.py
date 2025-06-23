@@ -1,0 +1,6 @@
+mylist = list (range(10))
+print (mylist)
+mylist = list (range(10,100))
+print (mylist)
+mylist = list (range(10,100,2))
+print (mylist)

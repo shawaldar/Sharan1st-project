@@ -1,0 +1,5 @@
+print ('hello')
+print ('welcome to',end =' ')
+print ('Gtechtechnologies')
+print ('hello! welcome to', end = '-')
+print ('Python')
